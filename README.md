@@ -2,6 +2,8 @@
 
 ![Screenshot](bootstrap.drilldown.png)
 
+##Full Example Code
+
 ```
 <!DOCTYPE html>
 <html>
@@ -439,7 +441,7 @@
 
 ```
 
-**[Live demo](http://mewsoft.com/app/)**
+**[Live demo app](http://mewsoft.com/app/)**
 
 ## Author
 
