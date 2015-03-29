@@ -1,10 +1,8 @@
 # Bootstrap iPod Style jQuery Drill Down Menu Plugin
 
----
-
 ![Screenshot](bootstrap.drilldown.png)
 
-```html
+```
 <!DOCTYPE html>
 <html>
 	<head>
@@ -439,7 +437,7 @@
 	</body>
 </html>
 
-```html
+```
 
 **[Live demo](http://mewsoft.com/app/)**
 
