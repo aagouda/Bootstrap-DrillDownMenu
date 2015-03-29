@@ -441,7 +441,9 @@
 
 ```
 
-**[Live demo app](http://mewsoft.com/app/)**
+**[Live demo on bootply](http://www.bootply.com/hIuKeY1K4t)**
+
+**[Live demo app on mewsoft.com](http://mewsoft.com/app/)**
 
 ## Author
 
